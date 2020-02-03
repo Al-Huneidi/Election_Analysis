@@ -1,6 +1,7 @@
 # Election_Analysis
 Analyzing election information in Python
-The code did the following things:
+
+## The code did the following things:
  
  1. Calculated the total number of votes cast for all candidates.
  2. Created a complete list of candidates who received votes.
