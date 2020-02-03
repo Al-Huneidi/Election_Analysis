@@ -53,9 +53,9 @@ An employee from the Colorado Election Commission asked for help in analyzing th
     - Denver
     - Jefferson
    - The county results were:
-    -   received x% of the votes and y total votes.
-    -   received x% of the votes and y total votes.
-    -   received x% of the votes and y total votes.
+    -   Arapahoe received 6.7% of the votes and 24,801 total votes.
+    -   Denver received 82.8%% of the votes and 306,055 total votes.
+    -   Jefferson received 10.5% of the votes and 38,855 total votes.
    - The county with the largest number of votes cast was:
-    -  
+    -  Denver
   
