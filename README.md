@@ -1,7 +1,7 @@
 # Election_Analysis
 Analyzing election information in Python
 
-#Project Overview
+##Project Overview
 An employee from the Colorado Election board asked for help in analyzing the results of a congressional race.
  
  1. Calculated the total number of votes cast for all candidates.
@@ -12,4 +12,29 @@ An employee from the Colorado Election board asked for help in analyzing the res
  6. Printed each candidate's name, the total number of votes won and the percentage of votes won.
  7. Printed a summary for the winner of the election to include the winning candidate's name, total votes won and percentage of votes won. 
  
+ ## Resources
+ - Data Source: election_results.csv
+ - Software:  Python 3.8.1, Visual Studio Code, 1.41.1
  
+ ## Summary
+ The analysis of the election show:
+ - Total votes cast in the election were 369711
+ - The candidates were:
+   - Charles Casper Stockham
+   - Diana DeGette
+   - Raymon Anthony Doane
+ - The candidate results were:
+   - Charles Casper Stockham received 23.0% of the votes and 85,213 total votes.
+   - Diana DeGette received 73.8% of the votes and 272,892 total votes.
+   - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
+ - The winner of the election was:
+   - Diana DeGette with 73.8% of the votes and 272,892 total votes.
+   
+   ## Challenge Overview
+   
+   
+   
+   
+   
+   ## Challenge Overview
+  
